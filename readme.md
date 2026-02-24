@@ -16,10 +16,10 @@ We present a method for generating training data for reinforcement learning with
 
 If you use this code or find our work helpful, please consider citing:
 ``` bibtex
-@article{yeo2026adaptive,
-  title={Adaptive Problem Generation via Symbolic Representations},
-  author={Yeo, Teresa and Jeon, Myeongho and Weerakoon, Dulaj and Qiao, Rui and Prakash, Alok and Solar-Lezama, Armando and Misra, Archan},
-  journal={arXiv preprint arXiv:2026.XXXXX},
-  year={2026}
+@misc{yeo2026adaptive,
+      title={Adaptive Problem Generation via Symbolic Representations}, 
+      author={Teresa Yeo and Myeongho Jeon and Dulaj Weerakoon and Rui Qiao and Alok Prakash and Armando Solar-Lezama and Archan Misra},
+      year={2026},
+      journal={arXiv preprint arXiv:2602.19187}
 }
 ```
